@@ -3,7 +3,7 @@ About r-dppackage
 
 Home: http://www.mat.puc.cl/~ajara
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dppackage-feedstock/blob/master/LICENSE.txt)
 
